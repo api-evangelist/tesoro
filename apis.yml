@@ -1,7 +1,11 @@
 aid: tesoro
-url: https://raw.githubusercontent.com/api-evangelist/tesoro/refs/heads/main/apis.yml
+url: 
+  https://raw.githubusercontent.com/api-evangelist/tesoro/refs/heads/main/apis.yml
 modified: '2026-03-24'
 apis: []
 common:
   - type: Website
     url: https://www.tesoro.com
+description: >-
+  Tesoro Corporation was an independent refiner and marketer of petroleum products
+  before changing its name to Andeavor and later being acquired by Marathon Petroleum.
