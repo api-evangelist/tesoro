@@ -1,0 +1,27 @@
+{
+  "@context": {
+    "@vocab": "https://schema.org/",
+    "petroleum": "https://schema.org/",
+    "tesoro": "https://www.tesoro.com/vocab#",
+    "Organization": "schema:Organization",
+    "Refinery": "tesoro:Refinery",
+    "FuelStation": "schema:GasStation",
+    "PetroleumProduct": "tesoro:PetroleumProduct",
+    "name": "schema:name",
+    "description": "schema:description",
+    "foundingDate": "schema:foundingDate",
+    "dissolutionDate": "schema:dissolutionDate",
+    "location": "schema:location",
+    "areaServed": "schema:areaServed",
+    "numberOfEmployees": "schema:numberOfEmployees",
+    "revenue": "schema:revenue",
+    "parentOrganization": "schema:parentOrganization",
+    "hasOccupation": "schema:hasOccupation",
+    "industry": "tesoro:industry",
+    "capacity": "tesoro:capacity",
+    "capacityUnit": "tesoro:capacityUnit",
+    "productType": "tesoro:productType",
+    "ticker": "schema:tickerSymbol",
+    "exchange": "schema:exchangeTicker"
+  }
+}

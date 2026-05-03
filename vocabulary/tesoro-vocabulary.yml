@@ -1,0 +1,72 @@
+title: Tesoro Vocabulary
+description: >-
+  Vocabulary and taxonomy for Tesoro Corporation (later Andeavor) petroleum refining
+  and marketing business domain, covering refinery operations, fuel products, retail
+  distribution, and energy industry concepts.
+created: '2026-05-03'
+modified: '2026-05-03'
+
+domains:
+  - name: Refining Operations
+    description: Petroleum refining and processing concepts
+    terms:
+      - name: Refinery
+        definition: An industrial facility that processes crude oil into refined petroleum products
+      - name: Crude Oil Capacity
+        definition: The maximum volume of crude oil a refinery can process per day, measured in barrels per day
+      - name: Barrel
+        definition: The standard unit of oil volume equal to 42 US gallons (approximately 159 liters)
+      - name: Crack Spread
+        definition: The difference between the price of crude oil and the prices of refined petroleum products
+      - name: Throughput
+        definition: The volume of crude oil or feedstock processed through a refinery in a given time period
+      - name: Distillation
+        definition: The primary refining process that separates crude oil into component fractions by boiling point
+      - name: Fluid Catalytic Cracking (FCC)
+        definition: A refining process that converts heavy oil fractions into lighter, more valuable products
+      - name: Hydrocracking
+        definition: A refining process using hydrogen to convert heavy petroleum fractions into lighter products
+
+  - name: Petroleum Products
+    description: Refined fuel and petroleum product types
+    terms:
+      - name: Gasoline
+        definition: A refined petroleum fuel used primarily in internal combustion engines for automobiles
+      - name: Diesel
+        definition: A heavy refined petroleum fuel used in diesel engines, trucks, and industrial equipment
+      - name: Jet Fuel
+        definition: Aviation turbine fuel (ATF) refined for use in jet aircraft engines
+      - name: Lubricants
+        definition: Refined petroleum oils used to reduce friction in mechanical equipment
+      - name: Asphalt
+        definition: A heavy petroleum residue used in road paving and roofing
+      - name: Petrochemicals
+        definition: Chemical products derived from petroleum as feedstocks (e.g., ethylene, propylene)
+      - name: Renewable Fuels
+        definition: Biofuels and other alternative fuels blended or produced at petroleum refineries
+
+  - name: Retail and Distribution
+    description: Fuel retail and distribution network concepts
+    terms:
+      - name: Branded Retail Station
+        definition: A gasoline station operating under a petroleum company's brand (e.g., Tesoro, ARCO)
+      - name: Rack Price
+        definition: The wholesale price of fuel at a terminal or distribution rack
+      - name: Terminal
+        definition: A storage and distribution facility for refined petroleum products
+      - name: Pipeline
+        definition: Infrastructure for transporting crude oil or refined products between facilities
+      - name: Spot Market
+        definition: The market for immediate purchase and delivery of petroleum products at current prices
+
+  - name: Corporate
+    description: Tesoro/Andeavor corporate history
+    terms:
+      - name: Tesoro Corporation
+        definition: Fortune 100 petroleum refiner founded in 1968, headquartered in San Antonio, TX
+      - name: Andeavor
+        definition: The rebranded name of Tesoro Corporation following its acquisition of Western Refining in 2017
+      - name: Western Refining
+        definition: A petroleum refining company acquired by Tesoro in 2016 for $4.1 billion
+      - name: Marathon Petroleum
+        definition: American petroleum refining company that acquired Andeavor (formerly Tesoro) in 2018
