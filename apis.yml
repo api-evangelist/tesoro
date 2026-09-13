@@ -60,15 +60,11 @@ common:
   - name: Tesoro Website (Archive)
     url: https://www.tesoro.com
     type: Website
-  - name: Andeavor (formerly Tesoro)
-    url: https://web.archive.org/web/20180101000000*/andeavor.com
-    type: Website
-  - name: Marathon Petroleum (Acquired Andeavor/Tesoro)
-    url: https://www.marathonpetroleum.com
-    type: Website
   - name: Tesoro Corporation Wikipedia
     url: https://en.wikipedia.org/wiki/Tesoro_Corporation
     type: Documentation
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
+x-parent: marathon-petroleum
+x-relationship: acquisition
