@@ -1,7 +1,9 @@
 ---
 title: The Tesoro AI Podcast
 url: https://podcasts.apple.com/ae/podcast/the-tesoro-ai-podcast/id1527996104
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Tesoro" press release artificial intelligence'
 position: 3
 source: serpapi-google

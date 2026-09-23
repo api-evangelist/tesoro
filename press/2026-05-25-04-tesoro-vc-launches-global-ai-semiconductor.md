@@ -1,7 +1,9 @@
 ---
 title: Tesoro VC Launches Global AI + Semiconductor ...
 url: https://www.pr.com/press-release/948737
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Tesoro" press release artificial intelligence'
 position: 4
 source: serpapi-google

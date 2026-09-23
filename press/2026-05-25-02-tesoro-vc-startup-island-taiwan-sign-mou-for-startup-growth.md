@@ -1,7 +1,9 @@
 ---
 title: Tesoro VC, Startup Island Taiwan sign MOU for startup growth
 url: https://www.gpec.org/news/press-releases/tesoro-vc-startup-island-taiwan-sign-mou/
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Tesoro" press release artificial intelligence'
 position: 2
 source: serpapi-google
