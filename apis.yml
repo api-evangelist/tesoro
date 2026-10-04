@@ -68,3 +68,8 @@ maintainers:
     email: kin@apievangelist.com
 x-parent: marathon-petroleum
 x-relationship: acquisition
+x-status: acquired
+x-acquired-by: marathon-petroleum
+x-acquired-date: '2018-10'
+x-status-source: "https://www.ogj.com/refining-processing/refining/operations/article/17297052/marathon-completes-andeavor-acquisition"
+x-status-evidence: "Tesoro renamed itself Andeavor in 2017; Marathon Petroleum completed the Andeavor acquisition on 2018-10-01; andeavor.com no longer resolves (roadmap#812)"
